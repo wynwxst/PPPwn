@@ -1,7 +1,10 @@
 # PPPwn - PlayStation 4 PPPoE RCE
 Fork of [PPPwn](https://github.com/TheOfficialFloW/PPPwn) with pre-built stage binaries.
+
 Running:
+
 `python3 pppwn.py --interface=enp0s3 --fw=<fw>`
+
 then perform the steps below.
 
 AGAIN THIS IS A **FORK**
